@@ -1,2 +1,2 @@
 # Reminders
-this is a simple angular projects to keep track of the the reminders with respective duedates
+this is a simple angular project to keep track of all the reminders with respective their duedates
